@@ -1,0 +1,5 @@
+[CAPA_R2_C1] + [CAPA_R3_C1] = [CAPA_R1_C1]msg(Error);
+[CAPC_R2_C1] + [CAPC_R3_C1] = [CAPC_R1_C1]msg(Error);
+[CAPC_R291_C1] + [CAPC_R301_C1] + [CAPC_R311_C1] + [CAPC_R321_C1] = [CAPC_R33_C1]msg(Error);
+[CAPC_R5_C1] + [CAPC_R6_C1] = [CAPC_R4_C1]msg(Error);
+[CAPC_R8_C1] + [CAPC_R9_C1] = [CAPC_R7_C1]msg(Error);
