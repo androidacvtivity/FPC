@@ -5,6 +5,6 @@ interior
 2. declaration-16713709.pdf - Vizual 
 3. 16713709.txt - xml ajuns la noi 
 4. ID_MD a randurilor din sistemul nostru  ID_MD_MD_RIND_CIS2.xlsx 
-5 . datele finale dupa mapare in sistemul cis2 - dar pe test 
+5. _MD_MD_RIND_CIS2.xlsx  datele finale dupa mapare in sistemul cis2 - dar pe test 
 Verifica daca sa mapat corect - ce nu intalegi intreaba 
 Da-mi lista dutoror variabilor care sau mapat sursa si final in cis2 -  
