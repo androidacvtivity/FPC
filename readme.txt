@@ -8,3 +8,9 @@ interior
 5. _MD_MD_RIND_CIS2.xlsx  datele finale dupa mapare in sistemul cis2 - dar pe test 
 Verifica daca sa mapat corect - ce nu intalegi intreaba 
 Da-mi lista dutoror variabilor care sau mapat sursa si final in cis2 -  
+
+Creaza in tabel cu doua coloane 
+
+in prima sa fie 
+din xam variabila si valoarea si in a doua sa fie din cis2 capitol_rind_id_md_col si valoarea doar 2 coloane 
+sa fie explicit sa vedem sursa - si destinatia 
